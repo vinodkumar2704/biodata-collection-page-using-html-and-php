@@ -1,0 +1,13 @@
+button{
+	margin:10px;
+	padding: 5px;
+
+}
+.container{
+	font-family: monospace;
+	text-align: center;
+	background-color: white;
+}
+p{
+	font-size: 70px;
+}

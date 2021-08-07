@@ -1,0 +1,19 @@
+name--BATTHALA VINOD KUMAR
+roll_no--B191060CS
+dob--2021-08-19
+address--21/8,Apparao street,old town
+mobile--06309332416
+mailid--vinodkumar_b191060cs@nitc.ac.in
+sem1--1
+sem3--
+sem5--
+sem7--
+sem2--1
+sem4--
+sem6--
+sem8--
+cgpa--1
+hobbies--
+hord--Dayscholar
+ref--
+form_submit--Submit
